@@ -4,7 +4,10 @@ Control your system’s volume using hand gestures detected via your webcam. Thi
 <br>
 <b>Features</b>
 <br>
-Real-time hand tracking using MediaPipe.
-Adjusts system volume by changing the distance between thumb and index finger.
-Visual feedback with OpenCV (landmarks & volume bar).
-Works with any webcam.
+1.Real-time hand tracking using MediaPipe.
+<br>
+2.Adjusts system volume by changing the distance between thumb and index finger.
+<br>
+3.Visual feedback with OpenCV (landmarks & volume bar).
+<br>
+4.Works with any webcam.
